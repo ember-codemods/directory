@@ -18,6 +18,7 @@ A directory of ember-codemods
 | [ember-memory-leaks-codemod](https://github.com/ember-codemods/ember-memory-leaks-codemod) | Identifies and fixes common memory leaks in Ember apps | General | |
 | [ember-cli-htmlbars-inline-precompile-codemod](https://github.com/ember-codemods/ember-cli-htmlbars-inline-precompile-codemod) | Transforms imports to avoid using `htmlbars-inline-precompile` | General | |
 | [tagless-ember-components-codemod](https://github.com/ember-codemods/tagless-ember-components-codemod) | Transforms your components to use `tagName: ''` | Components | |
+| [ember-no-get-with-default](https://github.com/steventsao/ember-no-get-with-default-codemod) | Transforms `getWithDefault` with `get` and ternary operator  | General | ember? |
 | [ember-no-implicit-this-codemod](https://github.com/ember-codemods/ember-no-implicit-this-codemod) | Transforms your templates to use explicit `this` | Templates | |
 | [ember-test-onerror-codemod](https://github.com/ember-codemods/ember-test-onerror-codemod) | Transforms your test code to avoid using Ember.onerror | Testing | |
 
